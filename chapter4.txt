@@ -1,0 +1,2 @@
+Hello and welcome to chapter 4 of the trial version
+Here we will check the updated git repository.
